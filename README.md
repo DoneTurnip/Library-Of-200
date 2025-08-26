@@ -1,11 +1,6 @@
 
 # Library of 200
 
-## Beadandó a Webfejlesztés kurzushoz
-
-> [!NOTE]  
-> A videó 2 részben került feltöltésre, mert túl nagy a mérete.
-
 A Library of 200 egy olyan alkalmazás, amely egy könyvtár műveleteinek (olvasók, könyvek, kölcsönzések CRUD múveleteinek) hatékony kezelésére szolgál. A backend **Java 22** és **Spring Boot** használatával készült, míg a frontend **React** keretrendszerrel lett fejlesztve.
 Az alkalmazás hitelesítést is biztosít **Spring Security** segítségével, és **H2 adatbázist** használ az adatok tárolására.
 
