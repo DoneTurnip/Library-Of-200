@@ -1,0 +1,200 @@
+978-0-618-00222-8;The Lord of the Rings;J.R.R. Tolkien;1954;Fantasy  
+978-0-19-283355-7;Pride and Prejudice;Jane Austen;1813;Romantic novel  
+978-0-375-50448-4;His Dark Materials;Philip Pullman;1995;Fantasy  
+978-0-345-39180-3;The Hitchhiker's Guide to the Galaxy;Douglas Adams;1979;Sci-fi  
+978-0-439-13959-5;Harry Potter and the Goblet of Fire;J.K. Rowling;2000;Fantasy  
+978-0-06-093546-7;To Kill a Mockingbird;Harper Lee;1960;Literary fiction  
+978-0-14-036121-6;Winnie the Pooh;A.A. Milne;1926;Children's literature  
+978-0-452-28423-4;Nineteen Eighty-Four;George Orwell;1949;Dystopia  
+978-0-06-447104-6;The Lion, the Witch and the Wardrobe;C.S. Lewis;1950;Fantasy  
+978-0-14-243720-9;Jane Eyre;Charlotte Brontë;1847;Romantic novel  
+978-0-684-83339-9;Catch-22;Joseph Heller;1961;Satire  
+978-0-14-143955-6;Wuthering Heights;Emily Brontë;1847;Romantic novel  
+978-0-09-938791-6;Birdsong;Sebastian Faulks;1993;War novel  
+978-0-380-72978-5;Rebecca;Daphne du Maurier;1938;Gothic novel  
+978-0-316-76948-8;The Catcher in the Rye;J.D. Salinger;1951;Literary fiction  
+978-0-14-303909-0;The Wind in the Willows;Kenneth Grahame;1908;Children's literature  
+978-0-14-143956-3;Great Expectations;Charles Dickens;1861;Literary fiction  
+978-0-14-751401-1;Little Women;Louisa May Alcott;1868;Literary fiction  
+978-0-09-928802-2;Captain Corelli's Mandolin;Louis de Bernières;1994;Romantic novel  
+978-0-14-044793-4;War and Peace;Leo Tolstoy;1869;Historical novel  
+978-0-446-36538-3;Gone with the Wind;Margaret Mitchell;1936;Romantic novel  
+978-0-7475-3269-9;Harry Potter and the Philosopher's Stone;J.K. Rowling;1997;Fantasy  
+978-0-7475-3849-3;Harry Potter and the Chamber of Secrets;J.K. Rowling;1998;Fantasy  
+978-0-7475-4215-5;Harry Potter and the Prisoner of Azkaban;J.K. Rowling;1999;Fantasy  
+978-0-618-00221-1;The Hobbit;J.R.R. Tolkien;1937;Fantasy  
+978-0-14-143978-5;Tess of the D'Urbervilles;Thomas Hardy;1891;Literary fiction  
+978-0-14-143954-9;Middlemarch;George Eliot;1871;Literary fiction  
+978-0-06-098421-6;A Prayer for Owen Meany;John Irving;1989;Literary fiction  
+978-0-14-303943-4;The Grapes of Wrath;John Steinbeck;1939;Literary fiction  
+978-0-14-132107-0;Alice's Adventures in Wonderland;Lewis Carroll;1865;Children's literature  
+978-0-440-41639-1;The Story of Tracy Beaker;Jacqueline Wilson;1991;Children's literature  
+978-0-06-088328-1;One Hundred Years of Solitude;Gabriel García Márquez;1967;Literary fiction  
+978-0-451-20599-3;The Pillars of the Earth;Ken Follett;1989;Historical novel  
+978-0-14-043944-1;David Copperfield;Charles Dickens;1850;Literary fiction  
+978-0-14-241031-8;Charlie and the Chocolate Factory;Roald Dahl;1964;Children's literature  
+978-0-14-132100-1;Treasure Island;Robert Louis Stevenson;1883;Adventure novel  
+978-0-09-953026-8;A Town Like Alice;Nevil Shute;1950;Romantic novel  
+978-0-14-143968-6;Persuasion;Jane Austen;1817;Romantic novel  
+978-0-441-17295-7;Dune;Frank Herbert;1965;Sci-fi  
+978-0-14-143958-7;Emma;Jane Austen;1815;Romantic novel  
+978-0-14-751400-4;Anne of Green Gables;L.M. Montgomery;1908;Children's literature  
+978-0-14-303997-7;Watership Down;Richard Adams;1972;Adventure novel  
+978-0-7432-7356-5;The Great Gatsby;F. Scott Fitzgerald;1925;Literary fiction  
+978-0-14-044926-6;The Count of Monte Cristo;Alexandre Dumas;1844;Adventure novel  
+978-0-14-118248-3;Brideshead Revisited;Evelyn Waugh;1945;Literary fiction  
+978-0-452-28424-1;Animal Farm;George Orwell;1945;Satire  
+978-0-14-132452-1;A Christmas Carol;Charles Dickens;1843;Literary fiction  
+978-0-14-143965-5;Far from the Madding Crowd;Thomas Hardy;1874;Romantic novel  
+978-0-06-440174-0;Goodnight Mister Tom;Michelle Magorian;1981;Children's literature  
+978-0-312-95186-4;The Shell Seekers;Rosamunde Pilcher;1987;Romantic novel  
+978-0-14-132106-6;The Secret Garden;Frances Hodgson Burnett;1911;Children's literature  
+978-0-14-017739-8;Of Mice and Men;John Steinbeck;1937;Literary fiction  
+978-0-385-12168-2;The Stand;Stephen King;1978;Horror  
+978-0-14-303500-8;Anna Karenina;Leo Tolstoy;1877;Literary fiction  
+978-0-06-078652-6;A Suitable Boy;Vikram Seth;1993;Literary fiction  
+978-0-14-241038-7;The BFG;Roald Dahl;1982;Children's literature  
+978-0-19-275099-1;Swallows and Amazons;Arthur Ransome;1930;Children's literature  
+978-0-14-132103-5;Black Beauty;Anna Sewell;1877;Children's literature  
+978-0-14-131212-5;Artemis Fowl;Eoin Colfer;2001;Young adult literature  
+978-0-14-044913-6;Crime and Punishment;Fyodor Dostoyevsky;1866;Literary fiction  
+978-0-552-54754-3;Noughts and Crosses;Malorie Blackman;2001;Young adult literature  
+978-0-09-928285-3;Memoirs of a Geisha;Arthur Golden;1997;Literary fiction  
+978-0-14-143960-0;A Tale of Two Cities;Charles Dickens;1859;Literary fiction  
+978-0-06-083755-6;The Thorn Birds;Colleen McCullough;1977;Literary fiction  
+978-0-06-222571-9;Mort;Terry Pratchett;1987;Fantasy  
+978-0-7497-1490-2;The Magic Faraway Tree;Enid Blyton;1943;Children's literature  
+978-0-09-947835-5;The Magus;John Fowles;1965;Literary fiction  
+978-0-06-085398-3;Good Omens;Terry Pratchett and Neil Gaiman;1990;Fantasy  
+978-0-06-222575-7;Guards! Guards!;Terry Pratchett;1989;Fantasy  
+978-0-571-05688-6;Lord of the Flies;William Golding;1954;Literary fiction  
+978-0-14-104115-5;Perfume;Patrick Süskind;1985;Literary fiction  
+978-0-19-283688-6;The Ragged Trousered Philanthropists;Robert Tressell;1914;Literary fiction  
+978-0-06-230738-5;Night Watch;Terry Pratchett;2002;Fantasy  
+978-0-14-241037-0;Matilda;Roald Dahl;1988;Children's literature  
+978-0-14-100019-9;Bridget Jones's Diary;Helen Fielding;1996;Literary fiction  
+978-1-4000-3175-9;The Secret History;Donna Tartt;1992;Literary fiction  
+978-0-14-143961-7;The Woman in White;Wilkie Collins;1859;Literary fiction  
+978-0-14-118280-3;Ulysses;James Joyce;1922;Literary fiction  
+978-0-14-143972-3;Bleak House;Charles Dickens;1853;Literary fiction  
+978-0-440-86466-6;Double Act;Jacqueline Wilson;1995;Children's literature  
+978-0-14-241039-4;The Twits;Roald Dahl;1980;Children's literature  
+978-0-312-28092-6;I Capture the Castle;Dodie Smith;1948;Literary fiction  
+978-0-440-41480-9;Holes;Louis Sachar;1998;Young adult literature  
+978-0-09-928889-3;Gormenghast;Mervyn Peake;1950;Fantasy  
+978-0-06-097749-8;The God of Small Things;Arundhati Roy;1997;Literary fiction  
+978-0-440-41813-5;Vicky Angel;Jacqueline Wilson;2000;Children's literature  
+978-0-06-085052-4;Brave New World;Aldous Huxley;1932;Dystopia  
+978-0-14-144159-7;Cold Comfort Farm;Stella Gibbons;1932;Literary fiction  
+978-0-00-726349-3;Magician;Raymond E. Feist;1982;Fantasy  
+978-0-14-118267-4;On the Road;Jack Kerouac;1957;Literary fiction  
+978-0-451-20546-7;The Godfather;Mario Puzo;1969;Crime novel  
+978-0-553-28322-0;The Clan of the Cave Bear;Jean M. Auel;1980;Historical novel  
+978-0-06-222567-1;The Colour of Magic;Terry Pratchett;1983;Fantasy  
+978-0-06-112241-4;The Alchemist;Paulo Coelho;1988;Literary fiction  
+978-0-547-35032-8;Katherine;Anya Seton;1954;Historical novel  
+978-0-312-97948-5;Kane and Abel;Jeffrey Archer;1979;Literary fiction  
+978-0-14-012389-0;Love in the Time of Cholera;Gabriel García Márquez;1985;Literary fiction  
+978-0-385-73277-2;Girls in Love;Jacqueline Wilson;1997;Young adult literature  
+978-0-06-029466-2;The Princess Diaries;Meg Cabot;2000;Young adult literature  
+978-0-14-013270-0;Midnight's Children;Salman Rushdie;1981;Literary fiction  
+978-0-14-144121-4;Three Men In A Boat;Jerome K. Jerome;1889;Humor  
+978-0-06-109217-6;Small Gods;Terry Pratchett;1992;Fantasy  
+978-0-14-027005-1;The Beach;Alex Garland;1996;Adventure novel  
+978-0-14-143984-6;Dracula;Bram Stoker;1897;Horror  
+978-0-14-240612-0;Point Blanc;Anthony Horowitz;2001;Young adult literature  
+978-0-14-043611-2;The Pickwick Papers;Charles Dickens;1837;Literary fiction  
+978-0-14-240165-1;Stormbreaker;Anthony Horowitz;2000;Young adult literature  
+978-0-684-85351-9;The Wasp Factory;Iain Banks;1984;Literary fiction  
+978-0-09-955271-0;The Day Of The Jackal;Frederick Forsyth;1971;Thriller  
+978-0-440-86470-3;The Illustrated Mum;Jacqueline Wilson;1999;Children's literature  
+978-0-14-043538-2;Jude The Obscure;Thomas Hardy;1895;Literary fiction  
+978-0-14-131598-0;The Secret Diary Of Adrian Mole Aged 13¾;Sue Townsend;1982;Humor  
+978-0-14-104923-6;The Cruel Sea;Nicholas Monsarrat;1951;War novel  
+978-0-14-044430-8;Les Misérables;Victor Hugo;1862;Literary fiction  
+978-0-14-143978-5;The Mayor Of Casterbridge;Thomas Hardy;1886;Literary fiction  
+978-0-440-86471-0;The Dare Game;Jacqueline Wilson;2000;Children's literature  
+978-0-440-86472-7;Bad Girls;Jacqueline Wilson;1996;Children's literature  
+978-0-14-143957-0;The Picture Of Dorian Gray;Oscar Wilde;1890;Literary fiction  
+978-0-440-20722-7;Shogun;James Clavell;1975;Historical novel  
+978-0-14-118541-0;The Day Of The Triffids;John Wyndham;1951;Sci-fi  
+978-0-440-86473-4;Lola Rose;Jacqueline Wilson;2003;Children's literature  
+978-0-14-143983-9;Vanity Fair;William Makepeace Thackeray;1848;Literary fiction  
+978-0-14-118494-9;The Forsyte Saga;John Galsworthy;1922;Literary fiction  
+978-0-375-70376-4;House Of Leaves;Mark Z. Danielewski;2000;Horror  
+978-0-06-093053-0;The Poisonwood Bible;Barbara Kingsolver;1998;Literary fiction  
+978-0-06-223734-6;Reaper Man;Terry Pratchett;1991;Fantasy  
+978-0-06-447227-1;Angus, Thongs And Full-Frontal Snogging;Louise Rennison;1999;Young adult literature  
+978-0-14-103243-6;The Hound Of The Baskervilles;Arthur Conan Doyle;1902;Crime novel  
+978-0-679-73590-8;Possession;A. S. Byatt;1990;Literary fiction  
+978-0-14-118014-9;The Master And Margarita;Mikhail Bulgakov;1967;Literary fiction  
+978-0-385-49081-8;The Handmaid's Tale;Margaret Atwood;1985;Dystopia  
+978-0-14-241033-2;Danny The Champion Of The World;Roald Dahl;1975;Children's literature  
+978-0-14-200423-4;East Of Eden;John Steinbeck;1952;Literary fiction  
+978-0-14-241035-6;George's Marvellous Medicine;Roald Dahl;1981;Children's literature  
+978-0-06-222574-9;Wyrd Sisters;Terry Pratchett;1988;Fantasy  
+978-0-15-602835-6;The Color Purple;Alice Walker;1982;Literary fiction  
+978-0-06-222580-0;Hogfather;Terry Pratchett;1996;Fantasy  
+978-0-14-144117-7;The Thirty-Nine Steps;John Buchan;1915;Spy novel  
+978-0-440-86474-1;Girls In Tears;Jacqueline Wilson;2002;Children's literature  
+978-0-440-86475-8;Sleepovers;Jacqueline Wilson;2001;Children's literature  
+978-0-449-21394-0;All Quiet On The Western Front;Erich Maria Remarque;1929;War novel  
+978-0-312-42258-5;Behind The Scenes At The Museum;Kate Atkinson;1995;Literary fiction  
+978-0-14-028046-3;High Fidelity;Nick Hornby;1995;Literary fiction  
+978-0-451-16951-6;It;Stephen King;1986;Horror  
+978-0-14-241036-3;James And The Giant Peach;Roald Dahl;1961;Children's literature  
+978-0-451-19273-6;The Green Mile;Stephen King;1996;Horror  
+978-0-06-112066-3;Papillon;Henri Charrière;1969;Biography  
+978-0-06-223736-0;Men At Arms;Terry Pratchett;1993;Fantasy  
+978-0-393-30705-4;Master And Commander;Patrick O'Brian;1969;Historical novel  
+978-0-14-240614-4;Skeleton Key;Anthony Horowitz;2002;Young adult literature  
+978-0-06-223741-5;Soul Music;Terry Pratchett;1994;Fantasy  
+978-0-06-103132-8;Thief Of Time;Terry Pratchett;2001;Fantasy  
+978-0-552-14614-2;The Fifth Elephant;Terry Pratchett;1999;Fantasy  
+978-0-09-942979-1;Atonement;Ian McEwan;2001;Historical Fiction  
+978-0-552-55344-5;Secrets;Jacqueline Wilson;2002;Children's Literature  
+978-0-14-030146-9;The Silver Sword;Ian Serraillier;1956;Historical Fiction  
+978-0-451-16396-7;One Flew Over The Cuckoo's Nest;Ken Kesey;1962;Fiction  
+978-0-14-062048-5;Heart Of Darkness;Joseph Conrad;1899;Novella  
+978-0-14-018512-0;Kim;Rudyard Kipling;1901;Adventure  
+978-1-78475-137-1;Cross Stitch;Diana Gabaldon;1991;Historical Fiction  
+978-0-14-243724-1;Moby Dick;Herman Melville;1851;Adventure  
+978-1-4472-2169-0;River God;Wilbur Smith;1993;Historical Fiction  
+978-1-904598-66-0;Sunset Song;Lewis Grassic Gibbon;1932;Literary Fiction  
+978-1-84115-747-7;The Shipping News;Annie Proulx;1993;Fiction  
+978-0-345-36676-4;The World According To Garp;John Irving;1978;Fiction  
+978-0-14-043363-0;Lorna Doone;R. D. Blackmore;1869;Historical Fiction  
+978-0-552-54711-6;Girls Out Late;Jacqueline Wilson;1999;Children's Literature  
+978-0-14-011310-5;The Far Pavilions;M. M. Kaye;1978;Historical Fiction  
+978-0-14-241011-0;The Witches;Roald Dahl;1983;Children's Literature  
+978-0-06-440055-8;Charlotte's Web;E. B. White;1952;Children's Literature  
+978-0-14-143947-1;Frankenstein;Mary Shelley;1818;Gothic Fiction  
+978-0-09-968960-7;They Used To Play On Grass;Terry Venables and Gordon Williams;1972;Sports Fiction  
+978-0-684-80122-3;The Old Man And The Sea;Ernest Hemingway;1952;Fiction  
+978-0-15-600131-1;The Name Of The Rose;Umberto Eco;1980;Historical Mystery  
+978-1-85799-291-5;Sophie's World;Jostein Gaarder;1991;Philosophical Novel  
+978-0-552-55784-9;Dustbin Baby;Jacqueline Wilson;2001;Children's Literature  
+978-0-14-241034-9;Fantastic Mr Fox;Roald Dahl;1970;Children's Literature  
+978-0-679-72316-5;Lolita;Vladimir Nabokov;1955;Fiction  
+978-0-684-84684-2;Jonathan Livingston Seagull;Richard Bach;1970;Fable  
+978-0-15-601219-5;The Little Prince;Antoine De Saint-Exupéry;1943;Fable  
+978-0-440-86311-4;The Suitcase Kid;Jacqueline Wilson;1992;Children's Literature  
+978-0-14-143974-7;Oliver Twist;Charles Dickens;1837;Social Novel  
+978-0-14-300455-4;The Power Of One;Bryce Courtenay;1989;Bildungsroman  
+978-0-14-143975-4;Silas Marner;George Eliot;1861;Novel  
+978-0-679-73577-9;American Psycho;Bret Easton Ellis;1991;Satirical Novel  
+978-0-14-043732-4;The Diary Of A Nobody;George and Weedon Grossmith;1892;Humorous Fiction  
+978-0-7493-3650-9;Trainspotting;Irvine Welsh;1993;Urban Fiction  
+978-0-439-56143-4;Goosebumps;R. L. Stine;1992;Horror  
+978-0-14-036679-1;Heidi;Johanna Spyri;1881;Children's Literature  
+978-0-14-144144-3;Sons And Lovers;D. H. Lawrence;1913;Novel  
+978-0-06-093213-8;The Unbearable Lightness Of Being;Milan Kundera;1984;Philosophical Fiction  
+978-0-00-651213-4;Man And Boy;Tony Parsons;1999;Fiction  
+978-0-06-001311-0;The Truth;Terry Pratchett;2000;Fantasy  
+978-0-14-144103-0;The War Of The Worlds;H. G. Wells;1898;Science Fiction  
+978-0-440-22265-2;The Horse Whisperer;Nicholas Evans;1995;Romance  
+978-0-679-77645-1;A Fine Balance;Rohinton Mistry;1995;Historical Fiction  
+978-0-552-13465-1;Witches Abroad;Terry Pratchett;1991;Fantasy  
+978-0-00-726349-3;The Once And Future King;T. H. White;1958;Fantasy  
+978-0-399-22690-8;The Very Hungry Caterpillar;Eric Carle;1969;Children's Literature  
+978-0-671-72941-7;Flowers In The Attic;Virginia Andrews;1979;Gothic Fiction  
